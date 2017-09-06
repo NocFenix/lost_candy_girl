@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - WaterHazard
+  - Enemy
+  - Ground
+  - HiddenArea
+  - Coin
+  - Chest
+  - Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Behind Player
+  - Player
+  - Ground
+  - Hazard
+  - Foreground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3555506987
+    locked: 0
+  - name: Behind Player
+    uniqueID: 2103755953
+    locked: 0
+  - name: Player
+    uniqueID: 948198173
+    locked: 0
+  - name: WaterHazard
+    uniqueID: 4136049015
+    locked: 0
+  - name: Ground
+    uniqueID: 2453587513
+    locked: 0
+  - name: Foreground
+    uniqueID: 2676784439
+    locked: 0

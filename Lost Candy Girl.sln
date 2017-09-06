@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lost Candy Girl", "Assembly-CSharp.csproj", "{B975AA0A-F13D-3B73-F772-5D9F2046B00F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B975AA0A-F13D-3B73-F772-5D9F2046B00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B975AA0A-F13D-3B73-F772-5D9F2046B00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B975AA0A-F13D-3B73-F772-5D9F2046B00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B975AA0A-F13D-3B73-F772-5D9F2046B00F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
