@@ -1,4 +1,4 @@
-# lost_candy_girl
+# Lost Candy Girl
 A 2D Unity Platformer Game
 
 This is a 2D Platformer Game that I am developing in my off time in Unity.
